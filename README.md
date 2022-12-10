@@ -1,6 +1,6 @@
 **基于全志V3s自制GBA开源游戏掌机**
 
-视频介绍[]()
+视频介绍 [https://www.bilibili.com/video/BV1JP4y1X7Uz](https://www.bilibili.com/video/BV1JP4y1X7Uz/?vd_source=2f25de86752ccc9cfafc4bcf1c352db1)
 
 图片展示
 
